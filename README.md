@@ -1,5 +1,6 @@
 # Disclaimer
 if vincentc@inftracker.live is not available to contact anymore or I don't respond in more than a week, please contact vcodrine@proton.me!
+I mainly don't do much on github
 
 ## More
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@infinfinfinfinfinfinfinf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ioweryourego) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vincentc@inftracker.live) 
